@@ -13,14 +13,8 @@
 ## How to run this project:
 
 - Clone this project
-- Launch Visual Studio Code (VS Code) and open the cloned project folder.
-- Install dependencies using `npm install`
-- In the VS Code project explorer, right-click on the folder named `Tekarsh_Automation_API`.
-- Click on `Open in Integrated Terminal`.
-- Hit the command `npm run test`.
-- Navigate to the `reports` folder in the project directory.
-- Locate the file `report.html`.
-- Right-click on `report.html` and select `Open with Live Server` to view the test results in your browser.
+- hit the following command: ```npm run test```
+- for Mochawesome Report: ```--reporter mochawesome --reporter-options reportDir=Reports,reportFilename=report.html```
 
 ## Test Scenarios
 
@@ -52,13 +46,14 @@
 
  ## Mochawesome Report:
  
-![Screenshot (46)](https://user-images.githubusercontent.com/123433625/228039868-767c8209-279e-4078-910f-c4ec993b51ed.png)
+![Tekarsh_API_Report](https://github.com/user-attachments/assets/41eb3eac-0010-42a8-a73b-1c0f450569f9)
 
 
 ## Video Output:
 
+https://github.com/user-attachments/assets/af3508e6-db48-4f34-a13c-db1625c65b87
 
 
-https://user-images.githubusercontent.com/123433625/228039972-764fe3e5-e7d3-4877-b430-7859607bf2a6.mp4
+
 
 
