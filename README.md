@@ -1,4 +1,4 @@
-# Tekarsh API Automation
+# API_Automation_On_Automation_Exercise_Using_Axios
 
 **This project focuses on validating the functionality of two APIs provided by the Automation Exercise platform: Brand List and User Login Verification. These APIs are tested to ensure their behavior aligns with expected outcomes, contributing to the platform's reliability and user experience.**
 
